@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'GothamNarrow-Black';
+  src: url('GothamNarrow-Black.eot?#iefix') format('embedded-opentype'),  url('GothamNarrow-Black.otf')  format('opentype'),
+	     url('GothamNarrow-Black.woff') format('woff'), url('GothamNarrow-Black.ttf')  format('truetype'), url('GothamNarrow-Black.svg#GothamNarrow-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
